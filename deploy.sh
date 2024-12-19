@@ -16,7 +16,7 @@ tar --exclude=$dist_path/.git -zcvf dist.tar.gz $dist_path/*
 
 #上传至个人服务器
 scp -P 22 -r dist.tar.gz root@www.zhangtq.com:/var/www/$repo_name/
-ssh root@www.zhangtq.com -p 22 "cd /var/www/$repo_name/ && tar -xvf dist.tar.gz && rm -f dist.tar.gz"
+ssh root@www.zhangtq.com -p 22 "cd /var/www/$repo_name/ && tar -xvf dist.tar.gz && rm -f dist.tar.gz && mv public dist"
 # rm -f dist.tar.gz && rm -rf dist/
 
 # 将代码同步更新到gitee, github
