@@ -34,6 +34,7 @@
     "hexo-theme-next": "^8.21.1",
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",
+    "userland": "^0.4.3",
     "yamljs": "^0.3.0"
   }
 }
