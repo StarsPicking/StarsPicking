@@ -87,7 +87,9 @@ https://github.com/hehuapei/visitor-badge
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=StarsPicking.visitor-badge)
 -->
 
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/StarsPicking/count.svg" alt="Visitor Count" style="max-width: 100%; height: auto;">
+</p>
 
 <!--
 **StarsPicking/StarsPicking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
