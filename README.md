@@ -26,10 +26,16 @@ https://github.com/DenverCoder1/readme-typing-svg
 <br>
 <br>
 <br>
+
 <p align="center"> 
-<img style="max-width: 100%; width: 400px; background-color: transparent;" src="https://github-readme-stats.vercel.app/api?username=StarsPicking&show_icons=true&theme=tokyonight&hide_border=true" />
-<img style="max-width: 100%; width: 425px; background-color: transparent;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsPicking&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StarsPicking&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StarsPicking&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&card_width=320" />
+  </a>
 </p>
+
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -56,10 +62,12 @@ https://github.com/DenverCoder1/readme-typing-svg
 <p align="center"> 
 <img style="max-width: 100%; background-color: transparent;" src="https://go-skill-icons.vercel.app/api/icons?i=py,go,docker,md,docker,linux,nginx,kubernetes,elasticsearch,git,gitlab,github,githubactions,bash,vim,vue,gradle,ai,grafana,jenkins,mongodb,mysql,sqlite,redis,vscode,obsidian,ansible,kafka,wordpress,aws&theme=dark" />
 </p>
-
+<br>
 
 
 ### 博客更新
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 - 🦒 [http](https://www.zhangtq.com/interview/http/) 
 
