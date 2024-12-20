@@ -20,7 +20,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 
 
-### 💻 统计
+### 💻 数据统计
 
 <br>
 <br>
@@ -58,6 +58,12 @@ https://github.com/DenverCoder1/readme-typing-svg
 </p>
 
 
+
+### 博客更新
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+更多点击[!我的博客](https://www.zhangtq.com/)
 
 <!-- 技能 -->
 <div align="center">
