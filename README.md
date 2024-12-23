@@ -88,8 +88,8 @@ https://github.com/DenverCoder1/readme-typing-svg
 
   [![Python](https://img.shields.io/badge/code-Python-bea?style=for-the-badge&logo=python)](https://www.python.org/)
   [![Video YouTube](https://img.shields.io/badge/Video-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com)
-  ![](https://img.shields.io/badge/性格-静-orange?style=for-the-badge) 
-  ![](https://img.shields.io/badge/爱好-二次元-crimson?style=for-the-badge)
+  ![](https://img.shields.io/badge/性格-外向-orange?style=for-the-badge) 
+  ![](https://img.shields.io/badge/爱好-跑步-crimson?style=for-the-badge)
 </div>
 
 
