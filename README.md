@@ -47,7 +47,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 <!--贪吃蛇-->
 <!--https://github.com/Platane/snk-->
 <p align="center"> 
-<img style="max-width: 100%; ;background-color: transparent;" src="https://raw.githubusercontent.com/StarsPicking/StarsPicking/snake/github-contribution-grid-snake-dark.svg" />
+<img style="max-width: 100%; ;background-color: transparent;" src="https://github.com/StarsPicking/StarsPicking/raw/snake/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
