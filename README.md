@@ -39,8 +39,13 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- https://activity-graph.herokuapp.com -->
 <p align="center"> 
 <img style="max-width: 100%; width: 825px;background-color: transparent;" src="https://github-readme-activity-graph.vercel.app/graph?username=StarsPicking&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center"> 
+<img style="max-width: 100%; width: 825px;background-color: transparent;" src=" https://activity-graph.herokuapp.com?username=StarsPicking&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 
