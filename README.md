@@ -70,17 +70,11 @@ https://github.com/DenverCoder1/readme-typing-svg
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [http](https://www.zhangtq.com/interview/http/) 
+- 🦒 [我做了一个手写春联小网页，祝大家虎年暴富](https://www.zhangtq.com/829589/) 
 
-- 🚀 [Python模块](https://www.zhangtq.com/pages/9b5755/) 
+- 🚀 [拥抱生活，拥抱快乐](https://www.zhangtq.com/cd8bde/) 
 
-- 🤠 [python基础](https://www.zhangtq.com/pages/ff0317/) 
-
-- 🧰 [我做了一个手写春联小网页，祝大家虎年暴富](https://www.zhangtq.com/pages/829589/) 
-
-- 🧑‍💻 [拥抱生活，拥抱快乐](https://www.zhangtq.com/pages/cd8bde/) 
-
-- 🐵 [你知道的越多，不知道的也就越多](https://www.zhangtq.com/pages/f2e63f/) 
+- 🤠 [你知道的越多，不知道的也就越多](https://www.zhangtq.com/f2e63f/) 
 <!-- BLOG-POST-LIST:END -->
 更多点击[!我的博客](https://www.zhangtq.com/)
 
