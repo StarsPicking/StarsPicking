@@ -76,7 +76,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 - 🤠 [你知道的越多，不知道的也就越多](https://www.zhangtq.com/pages/f2e63f/) 
 <!-- BLOG-POST-LIST:END -->
-更多点击[!我的博客](https://www.zhangtq.com/)
+更多点击[!我的博客](https://hope.zhangtq.dpdns.org/)
 
 <!-- 技能 -->
 <div align="center">
