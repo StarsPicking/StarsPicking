@@ -72,15 +72,15 @@ https://github.com/DenverCoder1/readme-typing-svg
 <!-- BLOG-POST-LIST:START -->
 - 🦒 [nginx安装部署](https://hope.zhangtq.dpdns.org/techstack/nginx/af46e1/) 
 
-- 🚀 [工具链](https://hope.zhangtq.dpdns.org/devops/tools/) 
+- 🚀 [hexo-matery魔改](https://hope.zhangtq.dpdns.org/resource/hexoblog/) 
 
-- 🤠 [hexo-matery魔改](https://hope.zhangtq.dpdns.org/resource/hexoblog/) 
+- 🤠 [debian系统在线安装](https://hope.zhangtq.dpdns.org/developer/linux/e785cr/) 
 
-- 🧰 [debian系统在线安装](https://hope.zhangtq.dpdns.org/developer/linux/e785cr/) 
+- 🧰 [debain13在线安装docker](https://hope.zhangtq.dpdns.org/devops/tools/docker/394v5d/) 
 
-- 🧑‍💻 [debain13在线安装docker](https://hope.zhangtq.dpdns.org/devops/tools/docker/394v5d/) 
+- 🧑‍💻 [正则表达式](https://hope.zhangtq.dpdns.org/interview/regex/) 
 
-- 🐵 [正则表达式](https://hope.zhangtq.dpdns.org/interview/regex/) 
+- 🐵 [广度优先搜索练习题](https://hope.zhangtq.dpdns.org/algorithm/leetcode-2/8b96c3/) 
 <!-- BLOG-POST-LIST:END -->
 更多点击[我的博客](https://hope.zhangtq.dpdns.org/)
 
