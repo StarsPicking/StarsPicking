@@ -70,11 +70,17 @@ https://github.com/DenverCoder1/readme-typing-svg
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- 🦒 [我做了一个手写春联小网页，祝大家虎年暴富](https://www.zhangtq.com/pages/829589/) 
+- 🦒 [nginx安装部署](https://hope.zhangtq.dpdns.org/techstack/nginx/af46e1/) 
 
-- 🚀 [拥抱生活，拥抱快乐](https://www.zhangtq.com/pages/cd8bde/) 
+- 🚀 [工具链](https://hope.zhangtq.dpdns.org/devops/tools/) 
 
-- 🤠 [你知道的越多，不知道的也就越多](https://www.zhangtq.com/pages/f2e63f/) 
+- 🤠 [hexo-matery魔改](https://hope.zhangtq.dpdns.org/resource/hexoblog) 
+
+- 🧰 [debian系统在线安装](https://hope.zhangtq.dpdns.org/developer/linux/e785cr/) 
+
+- 🧑‍💻 [debain13在线安装docker](https://hope.zhangtq.dpdns.org/devops/tools/docker/394v5d/) 
+
+- 🐵 [正则表达式](https://hope.zhangtq.dpdns.org/interview/regex/) 
 <!-- BLOG-POST-LIST:END -->
 更多点击[我的博客](https://hope.zhangtq.dpdns.org/)
 
