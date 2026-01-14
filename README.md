@@ -74,7 +74,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 - 🚀 [工具链](https://hope.zhangtq.dpdns.org/devops/tools/) 
 
-- 🤠 [hexo-matery魔改](https://hope.zhangtq.dpdns.org/resource/hexoblog) 
+- 🤠 [hexo-matery魔改](https://hope.zhangtq.dpdns.org/resource/hexoblog/) 
 
 - 🧰 [debian系统在线安装](https://hope.zhangtq.dpdns.org/developer/linux/e785cr/) 
 
